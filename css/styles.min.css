@@ -1,0 +1,1 @@
+body{background-color:red;font-size:1rem;font-family:Tahoma,arial,sans-serif}body p{font-size:1em}body .inner{width:90%;padding:1em 0;margin:0 auto;position:relative;color:#f8f9f8}body .inner:before{position:absolute;content:'this is after box content';top:50%;font-size:6em;left:50%}
