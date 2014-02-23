@@ -1,0 +1,5 @@
+.jshintrc.js
+.sublime-grunt.cache
+Ruby200/
+node_modules/
+static/
